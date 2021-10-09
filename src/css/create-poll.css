@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+.optionInput {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.totalOptions {
+  display: flex;
+  flex-direction: column;
+}
